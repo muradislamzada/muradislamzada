@@ -10,5 +10,5 @@ My technical interests include:
 
 Whether it’s solving challenges, writing scripts, or analyzing vulnerabilities, I aim to build a strong foundation in both attacking and defending systems.
 
-📧 **Email:** muradislamzada@example.com  
+📧 **Email:** muradislamzada@gmail.com  
 💬 Always open to collaboration, security discussions, and new learning opportunities.
